@@ -1,0 +1,24 @@
+{
+  "xp": 0,
+  "done": [],
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Saludos",
+      "items": [
+        { "q": "Hola", "a": ["Hello", "Bye", "Thanks", "Please"], "i": 0 },
+        { "q": "Gracias", "a": ["Sorry", "Thanks", "Water", "Yes"], "i": 1 },
+        { "q": "Por favor", "a": ["Please", "Now", "Later", "Never"], "i": 0 }
+      ]
+    },
+    {
+      "id": "l2",
+      "title": "Comida",
+      "items": [
+        { "q": "Agua", "a": ["Bread", "Water", "Milk", "Salt"], "i": 1 },
+        { "q": "Pan", "a": ["Fish", "Rice", "Bread", "Soup"], "i": 2 },
+        { "q": "Mate", "a": ["Tea", "Mate", "Coffee", "Juice"], "i": 1 }
+      ]
+    }
+  ]
+}
